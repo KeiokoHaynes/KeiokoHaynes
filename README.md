@@ -56,12 +56,3 @@ Currently building my technical portfolio and exploring projects that align with
 - Interested in impactful technology and applied research
 - Open to collaboration on projects with real-world significance
 
-> “Engineering is about building solutions that matter — combining technical precision with practical impact.”
-
----
-
-If you want, I can also turn this into:
-- a more professional recruiter-focused version
-- a more modern startup-style version
-- a shorter, cleaner profile README
-- a version with badges and custom stats
